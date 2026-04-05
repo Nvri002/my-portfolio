@@ -6,7 +6,7 @@
       <p class="text-sm text-cyan-400 mb-3">ABOUT ME</p>
 
       <h1 class="text-5xl font-bold leading-tight text-gray-200">
-        Seorang mahasiswa biasa yang suka bermalas-malasan.
+        Seorang mahasiswa biasa yang sedang eksplore luasnya dunia.
       </h1>
     </div>
 

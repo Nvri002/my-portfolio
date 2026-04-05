@@ -28,7 +28,7 @@
       </div>
     </nav>
 
-    <!-- 📄 CONTENT + TRANSITION -->
+ 
     <div class="relative z-10 pt-20">
       <transition name="fade" mode="out-in">
         <router-view />
