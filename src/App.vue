@@ -12,7 +12,7 @@
       <div class="max-w-6xl mx-auto flex justify-between items-center p-4">
 
         <router-link to="/" class="text-xl font-bold text-cyan-400">
-          MyPortfolio
+          Home
         </router-link>
 
         <div class="space-x-6">
